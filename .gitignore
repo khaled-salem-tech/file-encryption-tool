@@ -1,0 +1,8 @@
+secret.key
+*.key
+*.enc
+.venv/
+.idea/
+decrypted_*
+note.txt
+test1.txtءٍ
